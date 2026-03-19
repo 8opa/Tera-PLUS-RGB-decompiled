@@ -1,2 +1,2 @@
-# Tera-PLUS-RGB-decompiled
+# Tera+ RGB decompiled
 Skidded malware by KozaResponding2 but decompiled.
